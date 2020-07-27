@@ -1,0 +1,9 @@
+.addPanel {
+  margin-top: 10px;
+}
+
+.newTodo {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}

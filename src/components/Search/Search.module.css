@@ -1,0 +1,12 @@
+.searchInput {
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+}
+
+@media screen and (max-width:426px) {
+  .searchInput {
+    width: 100%;
+  }
+}
+
