@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 import Header from './components/Header/Header';
 import Add from './components/Add/Add';
 import Search from './components/Search/Search';
@@ -17,9 +16,9 @@ export default class App extends Component {
 
   state = {
     items: [
-      { id: 1, label: 'Drink Coffee', important: false, done: false },
-      { id: 2, label: 'Learn React', important: true, done: false },
-      { id: 3, label: 'Make Awesome App', important: false, done: false }
+      { id: 1, label: 'to take a shower', important: false, done: false },
+      { id: 2, label: 'drink tea', important: false, done: false },
+      { id: 3, label: 'brush teeth', important: true, done: false }
     ],
     filter: 'all',
     search: ''
