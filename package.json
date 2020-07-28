@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://todosim.github.io/todoWithReact",
+  "homepage": "https://simaxsaab.github.io/todoWithReact",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "react": "^16.13.1",
